@@ -17,7 +17,9 @@ kimai:
 #        password_reset: false
 # --------------------------------------------------------------------------------
 
-
+    user:
+        registration: false
+        password_reset: true
 # --------------------------------------------------------------------------------
 # TIME-TRACKING
 # All configs related to time-tracking, timesheets and record management
